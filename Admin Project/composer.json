@@ -1,5 +1,6 @@
 {
-    "name": "skmiraj/storemanagementproject",
+    //"name": "skmiraj/storemanagementproject",
+    "name": "mdmosharrof/storemanagementproject",
     "description": "This is store management web application",
     "require": {
         "phpoffice/phpspreadsheet": "^1.29"
@@ -11,8 +12,8 @@
     },
     "authors": [
         {
-            "name": "skmirajbn",
-            "email": "skmirajbn@gmail.com"
+            "name": "mdmosharrof",
+            "email": "mhosain673@gmail.com"
         }
     ]
 }
